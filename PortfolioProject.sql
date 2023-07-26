@@ -8,7 +8,7 @@ Skills Used: JOINS, CTE, TEMP TABLES, WINDOWS FUNCTIONS, AGGREGATE FUNCTIONS, CO
 Data: The dataset is from https://ourworldindata.org/covid-deaths. It has data from January 2020 to  July 2023. 
 I manipulated the data in Excel to contain the columns I wanted to work with.
 
-Task: The goal of this project is to explore 2020-2021 COVID-19 Data by asking and answering data exploration questions. 
+Task: The goal of this project is to explore 2020-2023 COVID-19 Data by asking and answering data exploration questions. 
 I choose to look at insights for Bangladesh since I am a Bangladeshi citizen. I also explored data globally and regionally.
 
 */
