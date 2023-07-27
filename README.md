@@ -20,9 +20,15 @@ I choose to look at insights for Bangladesh since I am a Bangladeshi citizen. I 
 # Key Finding
 
 •	As of 7/15/2023, there have been 2,043,485 COVID-19 cases in the Bangladesh. The current Bangladesh death percentage is about 1.44%, meaning there is about a 1.44% chance of dying if you contract COVID-19.
+
 •	While the number of cases has increased in total, the death percentage has declined. One year ago, there was a 1.46% chance of dying upon contraction in Bangladesh. Two years ago, 1.50% chance of dying upon contraction. 
+
 •	The highest infection rate is among European countries. The country with the highest infection rate is Cyprus. Of course, this is relative to their population.
-•	Bangladesh has an infection rate of 1.19%. In July 15, 2020, the Bangladesh infection rate was 0.11% and in 2021 it was 0.62%. The infection rate increased almost 6-fold between 2020 and 2021.  In 2022 July, it was 1.16% which is almost twice as much as in 2021. The rate saw relatively a slight increase in 2023
+
+•	Bangladesh has an infection rate of 1.19%. In July 15, 2020, the Bangladesh infection rate was 0.11% and in 2021 it was 0.62%. The infection rate increased almost 6-fold between 2020 and 2021.  In 2022 July, it was 1.16% which is almost twice as much as in 2021. The rate saw relatively a slight increase in 2023.
+
 •	Presently, there are 770,432,109 cases and 70,79,107 deaths worldwide due to COVID-19. The global death percentage is 0.91%.
-•	As of right now, North America has the highest death count due to COVID-19
+
+•	As of right now, North America has the highest death count due to COVID-19.
+
 •	10,849,191,153 people worldwide were vaccinated with at least one vaccine, that's 0.1% of the global population.
