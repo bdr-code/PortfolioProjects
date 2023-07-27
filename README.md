@@ -2,8 +2,7 @@
 This project explores COVID-19 data from January 2020 to November 2023. Basic to advanced SQL queries are executed to answer questions and look at trends over the course of COVID-19. After the data exploration is complete in SQL, the queries are used to create some data visualizations in Tableau. My data exploration in SQL can be viewed [here](https://github.com/bdr-code/PortfolioProjects/blob/main/PortfolioProject.sql) and my dashboard in Tableau [here](https://public.tableau.com/app/profile/md.abdur.rob/viz/PortfolioProject_16902999016690/Dashboard1).
 This project was built using SQL Server Management Studio (SSMS).
 
-![image](https://github.com/bdr-code/PortfolioProjects/assets/74000189/f738ac13-54c4-4f25-bca9-4fa6c5bc94f1)
-
+C:\Users\dell\Downloads\pexels-edward-jenner-4031867.jpg
 
 # The Data
 The dataset is taken from Our World in Data. It has data from January 2020 to July 2023. I manipulated the data in Excel to contain the columns I wanted to work with.
