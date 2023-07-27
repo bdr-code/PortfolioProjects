@@ -103,6 +103,7 @@ ORDER BY date;
 
 
 -- One year ago in 2022, 1,994,433 people were infected with COVID-19 and there was a 1.46% chance of dying upon contraction.
+--Two years ago, 1.50% chance of dying upon contraction. 
 
 
 
