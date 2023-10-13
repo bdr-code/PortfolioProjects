@@ -6,7 +6,7 @@ This project was built using SQL Server Management Studio (SSMS).
 
 
 # The Data
-The dataset is taken from Our UC Irvine Machine Learning Repository site. It has data from January 2010 to December 2012. I manipulated the data in SQl to contain the columns I wanted to work with.
+The dataset is taken from  UC Irvine Machine Learning Repository site which can be accessed [here](https://archive.ics.uci.edu/dataset/352/online+retail). It has data from January 2010 to December 2012. I manipulated the data in SQl to contain the columns I wanted to work with.
 
 
 
