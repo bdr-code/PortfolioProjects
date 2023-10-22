@@ -1,4 +1,4 @@
-# COVID-19 Data Exploration Project
+# Customer Retention Cohort Analysis Project
 This project explores Online Retail data of a UK Company from December 2010 to December 2012. Basic to advanced SQL queries were used to clean the data, undertake cohort analysis, and look at Customer Retention Trends over the period. After the data cleaning  was complete in SQL, the queries were used to create  data visualizations in Tableau. My data exploration in SQL can be viewed [here](https://github.com/bdr-code/PortfolioProjects/blob/main/Customer%20Cohort%20Analysis%20%20/Customer%20Retention%20Cohort%20SQL) and my dashboard in Tableau [here](https://public.tableau.com/app/profile/md.abdur.rob/viz/CohortRetentionDash_16969329993970/Dashboard1).
 This project was built using SQL Server Management Studio (SSMS).
 
